@@ -1,0 +1,103 @@
+.toggle {
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	display: table-cell;
+	vertical-align: middle;
+}
+.toggle1 {
+	width: 300px;
+	height: 300px;
+	background-color: green;
+	text-align: center;
+}
+.test {
+	font-weight: bold;
+
+}
+button.firstbut{
+	border-radius: 5px;
+	border: 2px solid blue;
+	font-weight: bold;
+}
+
+button.thirdbut{
+	border-radius: 5px;
+	border: 2px solid red;
+	font-weight: bold;
+}
+button.secondbut{
+	border-radius: 5px;
+	border: 2px solid green;
+	font-weight: bold;
+}
+
+.test_one{
+	color: red;
+}
+.test_test {
+	width: 100px;
+	height: 50px;
+	border-radius: 20px;
+ border: 1px solid black;
+ display: table-cell;
+ vertical-align: middle;
+ text-align: center;
+}
+.test_test1 {
+	background-color: green;
+}
+.test_four{
+	background-color: red;
+}
+.test_three {
+	width: 100px;
+	height: 50px;
+	border-radius: 20px;
+ border: 1px solid black;
+ display: table-cell;
+ vertical-align: middle;
+ text-align: center;
+}
+.test_three_two {
+	width: 100px;
+	height: 50px;
+	border-radius: 20px;
+ border: 1px solid black;
+ display: table-cell;
+ vertical-align: middle;
+ text-align: center;
+}
+
+.start_three {
+	border: 3px solid blue;
+	background-color: gray;
+   margin-bottom: 20px;
+	color: white;
+	font-size: 20px;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+.start_three_one {
+	border: 3px solid blue;
+	background-color: gray;
+   margin-bottom: 20px;
+	color: white;
+	font-size: 20px;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+
+.marg {
+	margin-top: 40px;
+}
+.test_five {
+	background-color: blue;
+}
+.text_six {
+	border: 3px solid white;
+	background-color: black;
+
+}
